@@ -44,7 +44,6 @@ else
 
 ## Comece a usar o Flaggy hoje mesmo!
 
-* **Repositório GitHub:** [https://es.wiktionary.org/wiki/removido](https://es.wiktionary.org/wiki/removido)
-* **Documentação:** [https://es.wiktionary.org/wiki/removido](https://es.wiktionary.org/wiki/removido)
-
+* **Repositório GitHub:** [https://github.com/jabulgareli/flaggy]([https://es.wiktionary.org/wiki/removido](https://github.com/jabulgareli/flaggy))
+  
 **Flaggy:** O futuro do gerenciamento de feature flags em .NET Core.
