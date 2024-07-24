@@ -1,6 +1,6 @@
 ## Flaggy: Seu Gerenciador de Feature Flags Open-Source em .NET Core
 
-**Flaggy** é um projeto **open-source** de **feature flags as a service** em **.NET Core** que facilita o gerenciamento de recursos em seus aplicativos. Com o Flaggy, você pode:
+**Flaggy** é um projeto **open-source** de **feature flags** em **.NET Core** que facilita o gerenciamento de recursos em seus aplicativos. Com o Flaggy, você pode:
 
 * **Obter o status de uma flag:** Verifique se uma flag está ativa ou desativada para um determinado tenant e conjunto de parâmetros personalizados (por exemplo, `userId=x, foo=bar`) usando uma requisição HTTP simples.
 * **Receber atualizações de flags em tempo real:** Assine um websocket para receber notificações instantâneas sobre alterações nas flags, garantindo que seus aplicativos estejam sempre atualizados.
